@@ -15,7 +15,7 @@ const About = () => {
                 <div className='flex flex-col items-center-start mt-10 text-gray-600'>
                     <div className='grid grid-cols-2 gap-6 md:gap-10 w-full 2xl pr-28'>
                         <div>
-                            <p className='text-4xl font-medium text-gray-800'>10+</p>
+                            <p className='text-4xl font-medium text-gray-800 '>10+</p>
                             <p>Years of Excellence</p>
                         </div>
                         <div>
@@ -31,7 +31,7 @@ const About = () => {
                             <p>Ongoing Projects</p>
                         </div>
                     </div>
-                    <p className='my-10 max-w-lg'>Established in 2015, Lyma Engineering Services is a
+                    <p className='my-10 max-w-lg sm:text-sm'>Established in 2015, Lyma Engineering Services is a
                         multi-disciplinary company specializing in the sale,
                         distribution, and servicing of high-quality products for the process industry.</p>
                     <button className='bg-blue-600 text-white px-6 py-2 rounded max-w-40'>Learn More</

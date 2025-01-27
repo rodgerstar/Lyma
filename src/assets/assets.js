@@ -34,44 +34,43 @@ export const assets = {
 }
 
 export const projectsData = [
-    {
-      title: "Skyline Haven",
-      price: "$2,50,000",
-      location: "California",
-      image: project_img_1
-    },
-    {
-      title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
-      image: project_img_2
-    },
-    {
-      title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
-      image: project_img_3
-    },
-    {
-      title: "Central Square",
-      price: "$2,50,000",
-      location: "Los Angeles",
-      image: project_img_4
-    },
-    {
-      title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
-      image: project_img_5
-    },
-    {
-      title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
-      image: project_img_6
-    },
-    
-  ];
+  {
+    title: "Air Compressor Installation",
+    location: "King Plastic Ltd",
+    description: "Installation and commissioning of high-performance air compressors for manufacturing efficiency.",
+    image: project_img_1,
+  },
+  {
+    title: "Steam Pipeline Setup",
+    location: "New Kenya Cooperative Creameries (NKCC)",
+    description: "Design and installation of steam and hot water pipelines for energy optimization.",
+    image: project_img_2,
+  },
+  {
+    title: "Refrigeration Plant Maintenance",
+    location: "Equator Bottlers Kisumu",
+    description: "Comprehensive maintenance and servicing of industrial refrigeration systems.",
+    image: project_img_3,
+  },
+  {
+    title: "Boiler Installation",
+    location: "Leather Industries Ltd",
+    description: "Installation and commissioning of steam and thermic boilers with advanced controls.",
+    image: project_img_4,
+  },
+  {
+    title: "Compressed Air Piping",
+    location: "East African Manufacturing Plant",
+    description: "Supply and installation of high-pressure compressed air pipelines for industrial use.",
+    image: project_img_5,
+  },
+  {
+    title: "Energy-Efficient Steam Distribution",
+    location: "Regional Processing Facility",
+    description: "Setup of steam distribution headers and heat recovery systems for optimized performance.",
+    image: project_img_6,
+  },
+];
 
   export const testimonialsData = [
     {
