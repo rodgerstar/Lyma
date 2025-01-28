@@ -12,7 +12,6 @@ import project_img_2 from './project_img_2.jpg'
 import project_img_3 from './project_img_3.jpg'
 import project_img_4 from './project_img_4.jpg'
 import project_img_5 from './project_img_5.jpg'
-import project_img_6 from './project_img_6.jpg'
 import profile_img_1 from './profile_img_1.png'
 import profile_img_2 from './profile_img_2.png'
 import profile_img_3 from './profile_img_3.png'
@@ -64,37 +63,31 @@ export const projectsData = [
     description: "Supply and installation of high-pressure compressed air pipelines for industrial use.",
     image: project_img_5,
   },
-  {
-    title: "Energy-Efficient Steam Distribution",
-    location: "Regional Processing Facility",
-    description: "Setup of steam distribution headers and heat recovery systems for optimized performance.",
-    image: project_img_6,
-  },
 ];
 
   export const testimonialsData = [
     {
-        name: "Donald Jackman",
-        title: "Marketing Manager",
+        name: "Michael Johnson",
+        title: "Operations Manager",
         image: profile_img_1,
-        alt: "Portrait of Donald Jackman",
+        alt: "Portrait of Michael Johnson",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "Lyma's expertise in air treatment equipment has significantly improved our manufacturing efficiency. Their team is professional and committed to delivering excellent service."
     },
     {
-        name: "Richard Nelson",
-        title: "UI/UX Designer",
+        name: "Sophia Carter",
+        title: "Plant Engineer",
         image: profile_img_2,
-        alt: "Portrait of Richard Nelson",
+        alt: "Portrait of Sophia Carter",
         rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "We have relied on Lyma for our steam distribution systems, and they never disappoint. Their solutions are tailored to meet industry standards and our specific requirements."
     },
     {
-        name: "James Washington",
-        title: "Co-Founder",
+        name: "David Brown",
+        title: "Facility Manager",
         image: profile_img_3,
-        alt: "Portrait of James Washington",
+        alt: "Portrait of David Brown",
         rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
+        text: "The team at Lyma provided excellent installation services for our water pipelines and fittings. Their attention to detail and post-installation support was exceptional."
     }
 ];
