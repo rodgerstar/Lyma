@@ -1,7 +1,6 @@
 {
   "name": "lyma",
   "homepage": "https://rodgerstar.github.io/Lyma/",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
